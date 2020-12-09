@@ -5,4 +5,4 @@ Gsap for animations
 
 
 Live Demo 
-https://gifted-mahavira-9b49be.netlify.app/
+https://unruffled-jepsen-5bf0ce.netlify.app/
